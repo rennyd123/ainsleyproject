@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Ainsley and Nick Memorial Project"
+  title: "Mémorial du Soldat Congolais"
   navbar:
     left:
       - href: index.qmd
@@ -13,7 +13,7 @@ website:
       - href: significance.ipynb
         text: Significance to African Conflict and Security
       - href: review.ipynb
-        text: Review
+        text: Review and Our Thoughts
       - href: references.ipynb
         text: References
 
