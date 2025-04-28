@@ -9,7 +9,7 @@ website:
       - href: index.ipynb
         text: Overview
       - href: memorial_design.ipynb
-        text: Memorial Deisgn
+        text: Memorial Design
       - href: significance.ipynb
         text: Significance to African Conflict and Security
       - href: review.ipynb
