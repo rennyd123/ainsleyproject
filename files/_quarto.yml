@@ -13,6 +13,6 @@ website:
 
 format:
   html:
-    theme: united
+    theme: materia
     toc: true
 
