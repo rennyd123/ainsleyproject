@@ -7,9 +7,16 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: history.qmd
-        text: History
+        text: Overview
+      - href: memorial_design.ipynb
+        text: Memorial Deisgn
+      - href: significance.ipynb
+        text: Significance to African Conflict and Security
+      - href: review.ipynb
+        text: Review
+      - href: references.ipynb
+        text: References
+
 
 format:
   html:
