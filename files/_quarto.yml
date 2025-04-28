@@ -13,6 +13,6 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: united
     toc: true
 
